@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - Home"
+title: "Jose Cordova-Garcia"
 layout: homelay
 excerpt: "Allan Lab at Leiden University."
 sitemap: false
