@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "Jose Cordova-Garcia - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "Jose Cordova-Garcia - Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -58,6 +58,7 @@ permalink: /publications/
 
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <p>{{ publi.description }}</p>
 
 {% endfor %}
 
