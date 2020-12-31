@@ -1,7 +1,7 @@
 ---
 title: "Jose Cordova-Garcia"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Jose Cordova-Garcia"
 sitemap: false
 permalink: /
 ---
