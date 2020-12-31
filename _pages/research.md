@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Research"
+title: "Jose Cordova-Garcia - Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "Jose Cordova-Garcia -- Research"
 sitemap: false
 permalink: /research/
 ---
