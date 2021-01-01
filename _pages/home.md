@@ -28,15 +28,3 @@ We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi tal
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
 </figure>
-
-<div class="col-sm-12 clearfix">
- <div class="well">
-  <pubtit>About author</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
-  <p>This is the description</p>
-  <p><em>This is another paragraph</em></p>
-  <p><strong><a href="http://jecordov.github.io/test2">Home</a></strong></p>
-  <p class="text-danger"><strong> Some highlights</strong></p>
-  <p> Other highlights </p>
- </div>
-</div>
