@@ -8,7 +8,7 @@ permalink: /
 
 
 
-I am an Assistant Professor with the [Faculty of Electrical and Computer Engineering (FIEC)](http://www.fiec.espol.edu.ec/) at [ESPOL University](http://www.espol.edu.ec). I am interested in optimization and machine learning applications in Smart Grids and data networks. ![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_real.jpg){: style="width: 300px; float: right; border: 10px"}
+I am an Assistant Professor with the [Faculty of Electrical and Computer Engineering (FIEC)](http://www.fiec.espol.edu.ec/) at [ESPOL University](http://www.espol.edu.ec). I received my PhD in Electrical Engineering from the [State University of New York at Stony Brook](http://www.stonybrook.edu) under the supervision of Xin Wang where I worked on data-driven monitoring and control of Smart Grids. I am interested in optimization and machine learning applications in Smart Grids and data networks. ![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_real.jpg){: style="width: 300px; float: right; border: 10px"}
 
 
 To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
