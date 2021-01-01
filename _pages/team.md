@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Team"
+title: "Jose Cordova-Garcia - Team"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "Jose Cordova-Garcia: Team"
 sitemap: false
 permalink: /team/
 ---
