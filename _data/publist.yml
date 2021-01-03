@@ -256,7 +256,7 @@
 - title: Test 4 Photoelectron Diffraction for a Look inside Nanostructures
   description: "Test description on not highlight"
   authors:
-    J Osterwalder, A Tamai, W Auwärter; MP Allan, T Greber
+    <b> J Osterwalder </b> , A Tamai, W Auwärter; MP Allan, T Greber
   link:
     url: hhttp://www.ingentaconnect.com/content/scs/chimia/2006/00000060/00000011/art00013
     display: CHIMIA 11, 759 (2006)
