@@ -9,7 +9,7 @@ permalink: /publications/
 
 # Publications
 
-Also available at [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ)
+Also available at [Google Scholar](https://scholar.google.com/citations?user=uS4BLbIAAAAJ&hl=en)
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -55,7 +55,6 @@ Also available at [Google Scholar](https://scholar.google.ch/citations?user=TqxY
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br />
   <a href="{{ publi.link.url }}">{{ publi.link.display }}</a> <br />
-  {{ publi.description }}
 
 {% endfor %}
 
