@@ -6,7 +6,7 @@
     url: https://ieeexplore.ieee.org/abstract/document/9060290/
     display: 2019 IEEE SmartWorld, Ubiquitous Intelligence & Computing, Advanced & Trusted Computing, Scalable Computing & Communications, Cloud & Big Data Computing, Internet of People and Smart City Innovation (SmartWorld/SCALCOM/UIC/ATC/CBDCom/IOP/SCI)
   highlight: 0
- 
+  
 - title: A Multi-label Classification Approach to Localization of Multiple Node Failures in Local DC Networks
   description: "Test description on not highlight"
   authors:
@@ -15,7 +15,6 @@
     url: https://ieeexplore.ieee.org/abstract/document/8805021/
     display: 2019 IEEE International Symposium on Measurements & Networking (M&N)
   highlight: 0
-  
   
 - title: Sparse Control and Data plane Telemetry features for BGP anomaly detection
   description: "Test description on not highlight"
