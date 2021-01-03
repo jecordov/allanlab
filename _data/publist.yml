@@ -15,4 +15,69 @@
     url: https://ieeexplore.ieee.org/abstract/document/8805021/
     display: 2019 IEEE International Symposium on Measurements \& Networking (M\&N)
   highlight: 0
- 
+  
+  
+- title: Sparse Control and Data plane Telemetry features for BGP anomaly detection
+  description: "Test description on not highlight"
+  authors:
+    <b> Cordova-Garcia, Jose </b>
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/8845303/
+    display: IEEE INFOCOM 2019-IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)
+  highlight: 0
+  
+  - title: Control of Communications-Dependent Cascading Failures in Power Grids
+  description: "Test description on not highlight"
+  authors:
+    <b> Cordova-Garcia, Jose </b> and Wang, Xin and Xie, Dongliang and Zhao, Yue and Zuo, Lei
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/8477119/
+    display: IEEE Transactions on Smart Grid
+  highlight: 0
+  
+- title: Restricting Involuntary Extension of Failures in Smart Grids using Social Network Metrics
+  description: "Test description on not highlight"
+  authors:
+    <b> Cordova-Garcia, Jose </b> and Xie, Dong-Liang and Wang, Xin
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/8485823/
+    display: IEEE INFOCOM 2018-IEEE Conference on Computer Communications
+  highlight: 0
+
+
+- title: Restricting Involuntary Extension of Failures in Smart Grids using Social Network Metrics
+  description: "Test description on not highlight"
+  authors:
+    <b> Cordova-Garcia, Jose </b> and Xie, Dong-Liang and Wang, Xin
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/8485823/
+    display: IEEE INFOCOM 2018-IEEE Conference on Computer Communications
+  highlight: 0
+  
+- title: Robust Power Line Outage Detection with Unreliable Phasor Measurements
+  description: "Test description on not highlight"
+  authors:
+    <b> Cordova-Garcia, Jose </b> and Wang, Xin
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/7930069/
+    display: 2017 IEEE 33rd International Conference on Data Engineering (ICDE)
+  highlight: 0
+  
+- title: Efficient and cooperative failure control in smart grid
+  description: "Test description on not highlight"
+  authors:
+    <b> Cordova-Garcia, Jose </b> and Wang, Xin
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/7869601/
+    display: 2016 50th Asilomar Conference on Signals, Systems and Computers
+  highlight: 0
+  
+- title: Self-motivated relay selection for a generalized power line monitoring network
+  description: "Test description on not highlight"
+  authors:
+    <b> Cordova-Garcia, Jose </b> and Wang, Xin and Xie, Dong-Liang and Zuo, Lei
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/7035679/
+    display: 2014 IEEE 11th International Conference on Mobile Ad Hoc and Sensor Systems
+  highlight: 0
+    
