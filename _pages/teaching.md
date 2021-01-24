@@ -3,7 +3,7 @@ title: "Jose Cordova-Garcia - Team"
 layout: gridlay
 excerpt: "Jose Cordova-Garcia: Team"
 sitemap: false
-permalink: /team/
+permalink: /teaching/
 ---
 
 # Group Members
