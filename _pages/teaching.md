@@ -1,196 +1,40 @@
 ---
-title: "Jose Cordova-Garcia - Team"
+title: "Jose Cordova-Garcia - Teaching"
 layout: gridlay
-excerpt: "Jose Cordova-Garcia: Team"
+excerpt: "Jose Cordova-Garcia: Teaching"
 sitemap: false
 permalink: /teaching/
 ---
 
-# Group Members
+Courses taught at ESPOL: 
 
- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+### First Term 2021 (May 2021-Sept 2021)
+- **Optimization Methods**: PhD level course on optimization, topics range from GD to ADMM with applications in power systems, control and networks.
+- **Smart Networks and Sustainable systems**: PhD level course on Smart Grids and sustainable energy systems from an optimization and ML perspective.
 
+### Second Term 2020 (Oct 2020-Feb 2021)
+- **Telematics Capstone course**: Undergraduate capstone design course for senior Telematics Engineering students using Design Thinking. 
 
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
+### First Term 2020 (May 2020-Sept 2021)
+- **Optimization Methods**: PhD level course on optimization, topics range from GD to ADMM with applications in power systems, control and networks.
+- **R for Data Science**: 2-week professional development course on R programming basics and tree based models.
 
-## Staff
-{% assign number_printed = 0 %}
-{% for member in site.data.team_members %}
+### Second Term 2019 (Oct 2019-Feb 2020)
+- **Introuction to Telematics**: Freshman level course on information and communication technologies.
+- **Telematics Capstone course**: Undergraduate capstone design course for senior Telematics Engineering students using Design Thinking. 
 
-{% assign even_odd = number_printed | modulo: 2 %}
+### First Term 2019 (May 2019-Sept 2019)
+- **Introuction to Telematics**: Freshman level course on information and communication technologies.
+- **R for Data Science**: 2-week professional development course on R programming basics and tree based models.
 
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
+### Second Term 2018 (Oct 2018-Feb 2019)
+- **Telematics Capstone course**: Undergraduate capstone design course for senior Telematics Engineering students using Design Thinking. 
 
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
-  <ul style="overflow: hidden">
+### First Term 2018 (May 2018-Sept 2018)
+- **Introuction to Telematics**: Freshman level course on information and communication technologies.
+- **Data networks**: Junior level course on data networks
 
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
+### Second Term 2018 (Oct 2017-Feb 2018)
+- **Introuction to Telematics**: Freshman level course on information and communication technologies (two sections)
+- **Data networks**: Junior level course on data networks
 
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 5 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  <li> {{ member.education5 }} </li>
-  {% endif %}
-
-  </ul>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-
-
-
-## Master and Bachelor Students
-{% assign number_printed = 0 %}
-{% for member in site.data.students %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
-  <ul style="overflow: hidden">
-
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  {% endif %}
-
-  </ul>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-
-## Alumni
-
-{% assign number_printed = 0 %}
-{% for member in site.data.alumni_members %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
-  <ul style="overflow: hidden">
-
-  </ul>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-## Former visitors, BSc/ MSc students
-<div class="row">
-
-<div class="col-sm-4 clearfix">
-<h4>Visitors</h4>
-{% for member in site.data.alumni_visitors %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-<div class="col-sm-4 clearfix">
-<h4>Master students</h4>
-{% for member in site.data.alumni_msc %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-<div class="col-sm-4 clearfix">
-<h4>Bachelor Students</h4>
-{% for member in site.data.alumni_bsc %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-</div>
-
-
-## Administrative Support
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
