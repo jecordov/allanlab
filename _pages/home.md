@@ -13,6 +13,8 @@ At FIEC I currently serve as director for the Telematics Engineering Undergradua
 - Estudiantes interesados en Ingeniería en Telemática pueden encontrar más información [aquí](https://www.fiec.espol.edu.ec/es/telematica-generalidades)
 - Profesionales interesados en la Maestría en Ciencia de Datos pueden encontrar más información [aquí](https://www.fiec.espol.edu.ec/mds/)
 
+I can be reached at [jecordov@espol.edu.ec](mailto:jecordov@espol.edu.ec)
+
 <!-- 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
