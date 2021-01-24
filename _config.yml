@@ -15,7 +15,7 @@ description: > # this means to ignore newlines until "baseurl:"
 #baseurl: "/test2"
 #url: ""
 
-baseurl: "test2"
+baseurl: "jecordov.github.io"
 url: "https://jecordov.github.io/"
 
 include:
